@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" role="img" aria-label="One person's problem, one design anyone can reuse">
+  <rect width="640" height="200" rx="16" fill="#0f2a3d"/>
+  <g fill="none" stroke="#f2b544" stroke-width="6" stroke-linecap="round">
+    <circle cx="110" cy="100" r="34"/>
+    <path d="M144 100 H230"/>
+    <rect x="236" y="82" width="56" height="36" rx="18"/>
+    <path d="M292 100 H330"/>
+  </g>
+  <g fill="#f2b544">
+    <path d="M330 88 L350 100 L330 112 Z"/>
+  </g>
+  <g fill="none" stroke="#7fd1c7" stroke-width="5" stroke-linecap="round">
+    <path d="M380 70 v60 M410 70 v60 M440 70 v60"/>
+    <path d="M372 100 h76"/>
+  </g>
+  <text x="480" y="92" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700">측정 → 설계</text>
+  <text x="480" y="122" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="700">→ 실사용 → 공개</text>
+  <text x="40" y="180" fill="#9fb3c2" font-family="sans-serif" font-size="14">Eaglet Assistive Devices · 맞춤형 3D 프린팅 보조기기</text>
+</svg>

@@ -1,0 +1,16 @@
+# Raw participant data never lives in this repository (docs/privacy.md).
+# These patterns are a safety net, not the policy.
+private/
+raw/
+**/recordings/
+*.m4a
+*.mp3
+*.wav
+*.mp4
+*.mov
+*consent*
+*동의서*
+
+# Local render output
+out/
+__pycache__/

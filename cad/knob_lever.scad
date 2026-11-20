@@ -15,8 +15,8 @@ wall = 4;             // side wall, mm
 front = 5;            // front face thickness, mm
 
 /* [Lever] */
-lever_len = 100;      // knob centre to lever tip, mm
-lever_w = 24;         // mm
+lever_len = 150;      // knob centre to lever tip, mm -- tools/design_params.py lever
+lever_w = 24;         // in the push direction, mm -- sets bending strength
 lever_t = 14;         // mm
 tip_r = 12;           // rounded tip radius, mm
 

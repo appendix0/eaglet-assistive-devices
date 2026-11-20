@@ -1,0 +1,8 @@
+{
+  "fileFormatVersion": "1",
+  "parameterSets": {
+    "ref01-25mm": {"grip_d": "25.4", "grip_len": "95", "slot_shape": "rect", "slot_w": "12", "slot_t": "3", "clearance": "0.3", "grooves": "4"},
+    "ref01-32mm": {"grip_d": "32", "grip_len": "95", "slot_shape": "rect", "slot_w": "12", "slot_t": "3", "clearance": "0.3", "grooves": "4"},
+    "ref01-38mm": {"grip_d": "38.1", "grip_len": "95", "slot_shape": "rect", "slot_w": "12", "slot_t": "3", "clearance": "0.3", "grooves": "4"}
+  }
+}

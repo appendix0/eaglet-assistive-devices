@@ -1,0 +1,7 @@
+{
+  "fileFormatVersion": "1",
+  "parameterSets": {
+    "ref03-30mm": {"grip_d": "30", "grip_len": "70", "slot_shape": "round", "slot_w": "10", "clearance": "0.2", "grooves": "3", "groove_start": "15", "groove_pitch": "18"},
+    "ref03-38mm": {"grip_d": "38.1", "grip_len": "70", "slot_shape": "round", "slot_w": "10", "clearance": "0.2", "grooves": "3", "groove_start": "15", "groove_pitch": "18"}
+  }
+}

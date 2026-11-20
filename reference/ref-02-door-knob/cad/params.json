@@ -1,0 +1,6 @@
+{
+  "fileFormatVersion": "1",
+  "parameterSets": {
+    "ref02-worstcase": {"knob_d": "55", "knob_depth": "25", "clearance": "0.8", "wall": "4", "front": "5", "lever_len": "150", "lever_w": "24", "lever_t": "14", "tip_r": "12"}
+  }
+}
